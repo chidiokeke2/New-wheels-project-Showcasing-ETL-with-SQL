@@ -4,7 +4,7 @@ This is an end to end ETL project using SQL. New Wheels sales have been dipping 
 The data is not organized and is dumped as flat files only to be used occasionally. I created a pipeline to organize and maintain this data using SQL database so that it becomes easy to answer business questions. Then, I used the data to create queries to answer some business questions
 
 
-## Skills Covered:
+#### Skills Covered:
 1. MySQL Server & Workbench
 2. Creating Schemas with DDL
 3. Normalizing Data Schemas
