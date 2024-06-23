@@ -11,4 +11,4 @@ The data is not organized and is dumped as flat files only to be used occasional
 4. Querying the Data with DML
 5. Tables,Views and Functions
 6. Automating data transformation with Stored Procedures & Functions
-7. reating Business Presentation to present insights from the data
+7. Creating Business Presentation to present insights from the data
