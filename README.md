@@ -12,3 +12,5 @@ The data is not organized and is dumped as flat files only to be used occasional
 5. Tables,Views and Functions
 6. Automating data transformation with Stored Procedures & Functions
 7. Creating Business Presentation to present insights from the data
+
+[Click to view project](https://github.com/chidiokeke2/New-wheels-project-Showcasing-ETL-with-SQL/blob/main/New%20wheels%20project.sql)
